@@ -9,48 +9,48 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 ## 📚 Key Tech Stacks Covered:
 
-- ➦ SQL
-- ➦ PowerBi Desktop
-- ➦ Excel
-- ➦ DAX language
-- ➦ DAX studio (for optimizing the report)
-- ➦ Project charter file
+-  SQL
+-  PowerBi Desktop
+-  Excel
+-  DAX language
+-  DAX studio (for optimizing the report)
+-  Project charter file
 
 ## 🔍 PowerBI Techniques Mastered:
 
-- ➦ Creating calculated columns
-- ➦ Creating measures using DAX language
-- ➦ Data modeling
-- ➦ Using Bookmarks to switch between visuals
-- ➦ Page navigation with buttons
-- ➦ Using divide function to prevent zero division errors
-- ➦ Creating date table using M language
-- ➦ Dynamic titles based on applied filters
-- ➦ Using KPI indicators
-- ➦ Conditional formatting values in visuals using icons or background color
-- ➦ Data validation techniques
-- ➦ PowerBi services
-- ➦ Publishing reports to PowerBi services
-- ➦ Setting up personal gateway for auto-refresh of data
-- ➦ PowerBi App creation
-- ➦ Collaboration, workspace, access permissions in PowerBi services
+-  Creating calculated columns
+-  Creating measures using DAX language
+-  Data modeling
+-  Using Bookmarks to switch between visuals
+-  Page navigation with buttons
+-  Using divide function to prevent zero division errors
+-  Creating date table using M language
+-  Dynamic titles based on applied filters
+-  Using KPI indicators
+-  Conditional formatting values in visuals using icons or background color
+-  Data validation techniques
+-  PowerBi services
+-  Publishing reports to PowerBi services
+-  Setting up personal gateway for auto-refresh of data
+-  PowerBi App creation
+-  Collaboration, workspace, access permissions in PowerBi services
 
 ## 💼 Business-related Terms Explored:
 
-- ➦ Gross price
-- ➦ Pre-invoice deductions
-- ➦ Post-Invoice deductions
-- ➦ Net Invoice sale
-- ➦ Gross Margin
-- ➦ Net sales
-- ➦ Net profit
-- ➦ COGS - cost of goods sold
-- ➦ YTD - Year to Date
-- ➦ YTG - Year to Go
-- ➦ Direct
-- ➦ Retailer
-- ➦ Distributors
-- ➦ Consumer
+-  Gross price
+-  Pre-invoice deductions
+-  Post-Invoice deductions
+-  Net Invoice sale
+-  Gross Margin
+-  Net sales
+-  Net profit
+-  COGS - cost of goods sold
+-  YTD - Year to Date
+-  YTG - Year to Go
+-  Direct
+-  Retailer
+-  Distributors
+-  Consumer
 
 
 ## Company’s background
@@ -150,7 +150,7 @@ Fact table : It will have the data about the transactions
 
 - Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
 - Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices.
+- Following Good practices of data modeling is must. 
 - In this project, we have followed Snowfall data modeling method.
 
 <img src="https://github.com/burandedivyesh/Business_Insights_360/blob/main/assets/data_model.png" class="center">
