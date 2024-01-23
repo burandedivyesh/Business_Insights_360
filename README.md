@@ -161,7 +161,7 @@ Based on the mock ups received as requirement, the team will start designing the
 
 ## Home view
 
-!home_page.png](https://github.com/burandedivyesh/Business_Insights_360/blob/main/assets/home_page.png)
+![home_png.png](https://github.com/burandedivyesh/Business_Insights_360/blob/main/assets/home_page.png)
 
 In Home view, all the views button will be available. User will land on specific view page by clicking the button 
 
